@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "k5ZzfFHWpgulnt33ZGvwCEy9kWtR+oEiTZ/GV7ObKg4JQAyxe7V9JHddzqh2cYSeyQbklN2QLp43tDukxL7qyg==",
+  "dgSpecHash": "pVvKgeoDR17mkHnrXVhnT3fvr/qxyVzKqFgquoNkbJYL/GZq9RFXCbsT8FsY1B0Hh2Y8sMOjCI8l5IGct0oGMA==",
   "success": true,
   "projectFilePath": "C:\\Users\\sachinsengar\\OneDrive - Nagarro\\Desktop\\MS_Assignment\\WebApplication1\\WebApplication1.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\sachinsengar\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.2\\microsoft.visualstudio.azure.containers.tools.targets.1.17.2.nupkg.sha512"
+  ],
   "logs": []
 }
